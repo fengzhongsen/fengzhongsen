@@ -26,8 +26,8 @@ My name is 冯忠森 but you can call me Sunny. I am a Tech enthusiast and a GNU
     <img width="50" height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yarn.svg"/>
     <img width="50" height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/>
     <img width="50" height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/> -->
-  </tr>
-<tr>
+  </th>
+</tr>
 
 <tr>
   <th align="left">Web Backend</th>
@@ -39,7 +39,7 @@ My name is 冯忠森 but you can call me Sunny. I am a Tech enthusiast and a GNU
     <img width="60" height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg"/>
     <img width="50" height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql-icon.svg"/>
   </th>
-<tr>
+</tr>
 
 
 <tr>
@@ -53,7 +53,7 @@ My name is 冯忠森 but you can call me Sunny. I am a Tech enthusiast and a GNU
     <img width="60" height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/>
     <!-- <img width="40" height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/> -->
   </th>
-<tr>
+</tr>
 
 <!-- <tr>
   <th align="left">System Programming Langrage</th>
@@ -61,7 +61,7 @@ My name is 冯忠森 but you can call me Sunny. I am a Tech enthusiast and a GNU
     <img width="30" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
     <img width="50" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/>
   </th>
-<tr> -->
+</tr> -->
 
 </table>
 
